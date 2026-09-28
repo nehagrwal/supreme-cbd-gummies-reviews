@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nehagrwal.github.io/supreme-cbd-gummies-reviews/sitemap.xml
+Sitemap: https://supreme-cbd-gummies-reviews.vercel.app/sitemap-vercel.xml
+Sitemap: https://supreme-cbd-gummies-reviews.pages.dev/sitemap-cloudflare.xml
